@@ -3,7 +3,7 @@ Contributors: essentialplugin
 Tags: slick image slider, responsive header image slider, carousel slider, responsive slider, wp header image slider
 Requires at least: 4.0
 Tested up to: 6.8.3
-Stable tag: 3.7.7
+Stable tag: 3.7.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -169,6 +169,9 @@ Where designs are : design-1, design-2, design-3, design-4, design-5. You can us
 9. Also added Gutenberg block support.
 
 == Changelog ==
+
+= 3.7.8 (17, Nov 2025) =
+* [*] Fixed code conflict issue affecting widget saving.
 
 = 3.7.7 (12, Nov 2025) =
 * [*] Check compatibility with WordPress version 6.8.3

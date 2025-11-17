@@ -6,7 +6,7 @@
  * Domain Path: /languages/
  * Description: Easy to add and display wp slick image slider and carousel. Also added Gutenberg block support.
  * Author: Essential Plugin
- * Version: 3.7.7
+ * Version: 3.7.8
  * Author URI: https://essentialplugin.com
  *
  * @package WP Slick Slider and Image Carousel
@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 if ( ! defined('WPSISAC_VERSION') ) {
-	define( 'WPSISAC_VERSION', '3.7.7' ); // Plugin version
+	define( 'WPSISAC_VERSION', '3.7.8' ); // Plugin version
 }
 if ( ! defined( 'WPSISAC_DIR' ) ) {
 	define( 'WPSISAC_DIR', dirname( __FILE__ ) ); // Plugin dir
